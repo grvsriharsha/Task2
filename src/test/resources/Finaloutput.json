@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Warrior",
+    "color": "red",
+    "Sub classes": [
+      {
+        "name": "Fighter",
+        "color": "blue",
+        "Sub classes": []
+      },
+      {
+        "name": "Paladin",
+        "color": "lighblue",
+        "Sub classes": []
+      },
+      {
+        "name": "Ranger",
+        "color": "lighgreen",
+        "Sub classes": []
+      }
+    ]
+  },
+  {
+    "name": "Warrior",
+    "color": "green",
+    "Sub classes": [
+      {
+        "name": "Mage",
+        "color": "grey",
+        "Sub classes": []
+      },
+      {
+        "name": "Specialist wizard",
+        "color": "lightgrey",
+        "Sub classes": []
+      }
+    ]
+  },
+  {
+    "name": "Priest",
+    "color": "white",
+    "Sub classes": [
+      {
+        "name": "Cleric",
+        "color": "red",
+        "Sub classes": []
+      },
+      {
+        "name": "Druid",
+        "color": "green",
+        "Sub classes": []
+      },
+      {
+        "name": "Priest of specific mythos",
+        "color": "white",
+        "Sub classes": []
+      }
+    ]
+  },
+  {
+    "name": "Rogue",
+    "color": "yellow",
+    "Sub classes": [
+      {
+        "name": "Thief",
+        "color": "yellow",
+        "Sub classes": [
+          {
+            "name": "Assassin",
+            "color": "lighblue",
+            "Sub classes": []
+          }
+        ]
+      },
+      {
+        "name": "Bard",
+        "color": "blue",
+        "Sub classes": []
+      }
+    ]
+  }
+]
